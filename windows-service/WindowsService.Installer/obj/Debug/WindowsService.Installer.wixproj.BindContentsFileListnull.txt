@@ -1,0 +1,1 @@
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\bin\Debug\WindowsService.exe

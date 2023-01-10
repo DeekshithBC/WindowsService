@@ -1,0 +1,10 @@
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.MyWindowsService.resources
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService\obj\Debug\WindowsService.pdb

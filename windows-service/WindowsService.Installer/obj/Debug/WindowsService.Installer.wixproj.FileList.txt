@@ -1,0 +1,7 @@
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService.Installer\bin\Debug\cab1.cab
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService.Installer\bin\Debug\WindowsService.Installer.msi
+C:\Users\deekshith.bc\Downloads\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\How-to-create-a-Windows-Service-MSI-Installer-Using-WiX-master\WindowsService.Installer\bin\Debug\WindowsService.Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WindowsService.Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\WindowsService.Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WindowsService.Installer.wixproj.BindBuiltOutputsFileListnull.txt
